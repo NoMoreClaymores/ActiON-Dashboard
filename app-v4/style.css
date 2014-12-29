@@ -31,8 +31,8 @@ body {background-color: #1d1d1d!important;}
 .switch, .dimmer, .momentary, .clock, .lock, .refresh, .link, .menu, .thermostat, .music i, .holiday, .camera {cursor: pointer;}
 .tiles {overflow:hidden}
 .tile {width: 120px; height: 120px;}
-.w2 {width: 240px;}
-.h2 {height:240px;}
+.w2 {width: 120px;}
+.h2 {height:120px;}
 
 /* reset ***********************/
 body, .ui-page{background-color:black!important;}
